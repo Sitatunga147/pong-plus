@@ -1,0 +1,18 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse workspace and project metadata
+.metadata/
+.project
+.classpath
+.settings/
+bin/
+
+# OS temporary and hidden files
+.DS_Store
+Thumbs.db
